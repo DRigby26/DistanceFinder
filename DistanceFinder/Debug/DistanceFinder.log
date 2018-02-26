@@ -1,0 +1,7 @@
+﻿  DistanceFinder.cpp
+y:\github\distancefinder\distancefinder\distancefinder.cpp(59): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+y:\github\distancefinder\distancefinder\distancefinder.cpp(51): warning C4101: 'C': unreferenced local variable
+y:\github\distancefinder\distancefinder\distancefinder.cpp(73): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+y:\github\distancefinder\distancefinder\distancefinder.cpp(91): warning C4101: 'threadID': unreferenced local variable
+  DistanceFinder.vcxproj -> Y:\GitHub\DistanceFinder\Debug\DistanceFinder.exe
+  DistanceFinder.vcxproj -> Y:\GitHub\DistanceFinder\Debug\DistanceFinder.pdb (Full PDB)
